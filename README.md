@@ -1,32 +1,23 @@
-[![Build Status](https://runbot.odoo.com/runbot/badge/flat/1/master.svg)](https://runbot.odoo.com/runbot)
-[![Tech Doc](https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/documentation/17.0)
-[![Help](https://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
-[![Nightly Builds](https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](https://nightly.odoo.com/)
-
-Odoo
-----
-
-Odoo is a suite of web based open source business apps.
-
-The main Odoo Apps include an <a href="https://www.odoo.com/page/crm">Open Source CRM</a>,
-<a href="https://www.odoo.com/app/website">Website Builder</a>,
-<a href="https://www.odoo.com/app/ecommerce">eCommerce</a>,
-<a href="https://www.odoo.com/app/inventory">Warehouse Management</a>,
-<a href="https://www.odoo.com/app/project">Project Management</a>,
-<a href="https://www.odoo.com/app/accounting">Billing &amp; Accounting</a>,
-<a href="https://www.odoo.com/app/point-of-sale-shop">Point of Sale</a>,
-<a href="https://www.odoo.com/app/employees">Human Resources</a>,
-<a href="https://www.odoo.com/app/social-marketing">Marketing</a>,
-<a href="https://www.odoo.com/app/manufacturing">Manufacturing</a>,
-<a href="https://www.odoo.com/">...</a>
-
-Odoo Apps can be used as stand-alone applications, but they also integrate seamlessly so you get
-a full-featured <a href="https://www.odoo.com">Open Source ERP</a> when you install several Apps.
-
-Getting started with Odoo
--------------------------
-
-For a standard installation please follow the <a href="https://www.odoo.com/documentation/17.0/administration/install/install.html">Setup instructions</a>
-from the documentation.
-
-To learn the software, we recommend the <a href="https://www.odoo.com/slides">Odoo eLearning</a>, or <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up</a>, the <a href="https://www.odoo.com/page/scale-up-business-game">business game</a>. Developers can start with <a href="https://www.odoo.com/documentation/17.0/developer/howtos.html">the developer tutorials</a>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://runbot.odoo.com/runbot" rel="nofollow"><img src="https://camo.githubusercontent.com/eee9aa3408eefdadfdbbd9e7eb55af6b23cff415962ee2f3d3bdd67772f58207/68747470733a2f2f72756e626f742e6f646f6f2e636f6d2f72756e626f742f62616467652f666c61742f312f6d61737465722e737667" alt="构建状态" data-canonical-src="https://runbot.odoo.com/runbot/badge/flat/1/master.svg" style="max-width: 100%;"></a>
+<a href="https://www.odoo.com/documentation/17.0" rel="nofollow"><img src="https://camo.githubusercontent.com/8d72babcce557c5dbfa065874275973691549d59b9a26354d601b4def6eca2d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61737465722d646f63732d3837354137422e7376673f7374796c653d666c617426636f6c6f72413d384638463846" alt="技术文档" data-canonical-src="https://img.shields.io/badge/master-docs-875A7B.svg?style=flat&amp;colorA=8F8F8F" style="max-width: 100%;"></a>
+<a href="https://www.odoo.com/forum/help-1" rel="nofollow"><img src="https://camo.githubusercontent.com/4c2cbba4011f3cd36e3b5cc9adad0e07d06d5ea2ea18fdab22a4cab359443587/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61737465722d68656c702d3837354137422e7376673f7374796c653d666c617426636f6c6f72413d384638463846" alt="帮助" data-canonical-src="https://img.shields.io/badge/master-help-875A7B.svg?style=flat&amp;colorA=8F8F8F" style="max-width: 100%;"></a>
+<a href="https://nightly.odoo.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/f93b57cb51d3bd4bc38a46ed3c0915638906d1651fe7bada694b7f36c1089318/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61737465722d6e696768746c792d3837354137422e7376673f7374796c653d666c617426636f6c6f72413d384638463846" alt="每晚构建" data-canonical-src="https://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&amp;colorA=8F8F8F" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">奥杜</font></font></h2><a id="user-content-odoo" class="anchor-element" aria-label="永久链接：奥杜" href="#odoo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Odoo 是一套基于网络的开源商业应用程序。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要的 Odoo 应用程序包括</font></font><a href="https://www.odoo.com/page/crm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源 CRM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/website" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站构建器</font></font></a><font style="vertical-align: inherit;"><a href="https://www.odoo.com/" rel="nofollow"><font style="vertical-align: inherit;">、</font></a><font style="vertical-align: inherit;">电子商务
+</font></font><a href="https://www.odoo.com/app/ecommerce" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仓库
+</font></font><a href="https://www.odoo.com/app/inventory" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">管理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/project" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">项目管理</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/accounting" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计费和会计</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/point-of-sale-shop" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">销售点</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/employees" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人力资源</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/social-marketing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">营销</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、
+</font></font><a href="https://www.odoo.com/app/manufacturing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">制造</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">...
+</font></font><a href="https://www.odoo.com/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Odoo 应用程序可以用作独立应用程序，但它们也可以无缝集成，因此当您安装多个应用程序时，您将获得功能齐全的</font></font><a href="https://www.odoo.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源 ERP</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Odoo 入门</font></font></h2><a id="user-content-getting-started-with-odoo" class="anchor-element" aria-label="永久链接：Odoo 入门" href="#getting-started-with-odoo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于标准安装，请遵循</font><font style="vertical-align: inherit;">
+文档中的</font></font><a href="https://www.odoo.com/documentation/17.0/administration/install/install.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装说明。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要学习该软件，我们推荐</font></font><a href="https://www.odoo.com/slides" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Odoo eLearning</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://www.odoo.com/page/scale-up-business-game" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Scale-up</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">商业</font></font><a href="https://www.odoo.com/page/scale-up-business-game" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font><a href="https://www.odoo.com/documentation/17.0/developer/howtos.html" rel="nofollow"><font style="vertical-align: inherit;">开发者可以从开发者教程</font></a><font style="vertical-align: inherit;">开始</font></font><a href="https://www.odoo.com/documentation/17.0/developer/howtos.html" rel="nofollow"><font style="vertical-align: inherit;"></font></a></p>
+</article></div>
